@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+시애틀에 서식중인 평범한 개발자. 적당히 허접하지만 아주 멍청하진 않습니다.
+
+미국에 살지만 영어를 못해서 한국어로 블로깅 합니다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- 고기를 (좀 많이) 좋아합니다.
+- 무협, 판타지, 공상과학을 좋아합니다.
+- 개발/팀 문화에 대한 고민을 많이 합니다.
+- 페미니즘을 지향하고 다양성을 존중합니다.
+- **어디서든 "내가 그래도 쟤보단 열심히 살지"에서 "쟤"를 담당합니다.**
